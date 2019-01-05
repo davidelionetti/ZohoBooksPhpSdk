@@ -42,6 +42,6 @@ response_type | code
 redirect_uri | _You set this up in step 1)_
 access_type | offline
 
-_With the following parameters means that the url will look something like: https://accounts.zoho.com/oauth/v2/auth?scope=ZohoBooks.fullaccess.all&client_id=yourClientID&... _
+_With the following parameters means that the url will look something like: https://accounts.zoho.com/oauth/v2/auth?scope=ZohoBooks.fullaccess.all&client_id=yourClientID&..._
 
 ### 3) Obtaining a refresh token
