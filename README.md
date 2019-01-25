@@ -74,3 +74,14 @@ refresh_token | line 7
 client_id | line 8
 client_secret | line 9
 redirect_uri | line 10
+
+
+
+## Methods
+
+### getCustomerPayments($start_date,$end_date)
+
+This methods gets all the customer payments present in Zoho Books.
+
+Both $start_date and $end_date need to be in the Y-m-d format.
+
